@@ -1,7 +1,5 @@
-# 💫 About Me:
 ## ¡Hola, soy LB! 👋<br><br>¡Bienvenido/a a mi perfil de GitHub! Soy un entusiasta de la tecnología y un apasionado por la programación. Mi objetivo es crear soluciones innovadoras que hagan la vida más fácil y emocionante.<br><br>
 
-### Acerca de mí<br><br>Desde que escribí mi primer "Hola, Mundo" en Bash, supe que estaba destinado a explorar el mundo del desarrollo de software. Mi viaje me ha llevado a adquirir habilidades en backend con enfoques varios, y siempre estoy emocionado por aprender nuevas tecnologías y enfoques.<br>
 
 
 ## 💻 Tech Stack:
