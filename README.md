@@ -12,8 +12,6 @@
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=LB35&theme=gotham&hide_border=false"/>
 </a>
 </p>
-![](https://github-readme-stats.vercel.app/api?username=LB35&theme=gotham&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=LB35&theme=gotham&hide_border=false)<br/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=LB35&icon=6&color=9)](https://visitcount.itsvg.in)
